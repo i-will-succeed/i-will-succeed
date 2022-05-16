@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-will-succeed
-- 👀 I’m interested in Python, Robotics, and Machine Learning
-- 🌱 I’m currently learning Python, Linux, and Raspberry Pi
+- 👀 I’m interested in Robotics, Machine Learning, Web design, and building cool things.
+- 🌱 I’m currently learning Linux, HTML, CSS, Javascript, and Python.
 - 💞️ I’m looking to collaborate on some future potential projects.. Stay Tuned!
 - 📫 How to reach me ...
 
